@@ -1,4 +1,3 @@
-[//]: <> (Creating GitHub Profile README)
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnI3M2VtdndhYzBuZGVuajVzbmF1Mno3Nnl1ZDVrY3VyYmRwODhqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="200"/>
 </div>
@@ -21,7 +20,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-[//]: <> (Adding a Banner GIF and "About Me" Section)
 <div id="banner" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -37,8 +35,6 @@ I am a student of Ho Chi Minh City University of Educationr <img src="https://me
 - 🌟 Always eager to explore new technologies and improve my coding skills.
 - 📫   Reach me out: trongnghiabui0807@gmail.com.
 
-[//]: <> (Adding Languages and Tools)
-
 ---
 
 ### 🛠️ Languages and Tools
@@ -52,8 +48,6 @@ I am a student of Ho Chi Minh City University of Educationr <img src="https://me
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
-
-[//]: <> (Adding GitHub Stats)
 
 ---
 
