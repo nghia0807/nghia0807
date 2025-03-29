@@ -1,7 +1,7 @@
 <!-- Creating GitHub Profile README -->
 <!-- Adding GIFs and Badges to Your GitHub Profile README -->
 <div id="header" align="center">
-  <img src="" width="200"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa252MWxnOWxkdXV2eDBsdHVwanh5Z2hpNjM3dDJlcm4zdXB3ZDlkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ngh%C4%A9a-b%C3%B9i-662a22250/">
