@@ -56,6 +56,4 @@ I am a student of Ho Chi Minh City University of Education <img src="https://med
 ---
 
 ### 🔥 My Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nghia0807&theme=vision-friendly-dark)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nghia0807&layout=compact&theme=vision-friendly-dark)
